@@ -1,4 +1,4 @@
-# PyQt5-Password-Generator-App
+# PyPass 2.0. ~ Password Generator App
 
 PyPass 2.0
 
